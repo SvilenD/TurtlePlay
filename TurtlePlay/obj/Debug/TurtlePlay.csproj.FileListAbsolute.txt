@@ -1,0 +1,12 @@
+C:\Users\Svilen\source\repos\TurtlePlay\TurtlePlay\bin\Debug\TurtlePlay.exe.config
+C:\Users\Svilen\source\repos\TurtlePlay\TurtlePlay\bin\Debug\TurtlePlay.exe
+C:\Users\Svilen\source\repos\TurtlePlay\TurtlePlay\bin\Debug\TurtlePlay.pdb
+C:\Users\Svilen\source\repos\TurtlePlay\TurtlePlay\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\Svilen\source\repos\TurtlePlay\TurtlePlay\obj\Debug\TurtlePlay.csprojAssemblyReference.cache
+C:\Users\Svilen\source\repos\TurtlePlay\TurtlePlay\obj\Debug\TurtlePlay.Properties.Resources.resources
+C:\Users\Svilen\source\repos\TurtlePlay\TurtlePlay\obj\Debug\TurtlePlay.csproj.GenerateResource.cache
+C:\Users\Svilen\source\repos\TurtlePlay\TurtlePlay\obj\Debug\TurtlePlay.csproj.CoreCompileInputs.cache
+C:\Users\Svilen\source\repos\TurtlePlay\TurtlePlay\obj\Debug\TurtlePlay.csproj.CopyComplete
+C:\Users\Svilen\source\repos\TurtlePlay\TurtlePlay\obj\Debug\TurtlePlay.exe
+C:\Users\Svilen\source\repos\TurtlePlay\TurtlePlay\obj\Debug\TurtlePlay.pdb
+C:\Users\Svilen\source\repos\TurtlePlay\TurtlePlay\obj\Debug\TurtlePlay.TurtlePlay.resources
